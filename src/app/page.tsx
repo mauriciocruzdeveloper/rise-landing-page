@@ -26,10 +26,10 @@ export default function Home() {
       <NavBar />
       <HeroSection />
       <LogoGroupSection />
-      <WhatsImportantSection />
-      <RemarkSection />
-      <WeShipSection />
-      <GetStartedSection />
+      {/* <WhatsImportantSection /> */}
+      {/* <RemarkSection /> */}
+      {/* <WeShipSection /> */}
+      {/* <GetStartedSection /> */}
       <FooterSection />
     </main>
   );
