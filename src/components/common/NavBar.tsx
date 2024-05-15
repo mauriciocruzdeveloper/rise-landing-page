@@ -13,11 +13,11 @@ function NavBar() {
   };
 
   return (
-    <div className="md:sticky md:top-0   md:shadow-none z-20 ">
+    <div className="md:sticky md:top-0  md:shadow-none z-20 ">
       {/* DESKTOP */}
-      <div className=" hidden lg:block animate-in fade-in zoom-in bg-white p-4">
+      <div className="bg-white shadow-violet-500 hidden lg:block animate-in fade-in zoom-in bg-white p-4">
         <div className="flex justify-between mx-[41px] items-center">
-          <div>
+          <div className="opacity-100">
             <Image width={100} height={50} src="/images/LOGO1.png" alt="logo" />
           </div>
           <div className="flex items-center gap-[40px] select-none">
