@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react";
 function HeroSection() {
   return (
     <section 
-      className="bg-gradient-to-b from-indigo-700 to-white flex flex-col justify-center items-center px-8 "
+      className="mt-20 lg:mt-1 bg-gradient-to-b from-indigo-700 to-white flex flex-col justify-center items-center px-8 "
     >
       {/* <div className="bg-customDark py-3 px-4 inline-flex text-white rounded-full">
         Announcing our Public Beta <ChevronRight />
