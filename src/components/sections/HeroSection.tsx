@@ -19,7 +19,7 @@ const HeroSection = () => {
       <div className="z-10 text-center">
         {/* Mensajes iniciales */}
         <motion.p
-          className="text-[#cbc8d3] font-semibold text-center my-2 tracking-wider"
+          className="text-white font-semibold text-center my-2 tracking-wider"
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3 }}
