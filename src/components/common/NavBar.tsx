@@ -26,7 +26,10 @@ function NavBar() {
               text="Sign in"
               classes="bg-white text-black border-[2px] border-gray-300 shadow-lg hover:bg-white"
             />
-            <MainButton text="Get Started" />
+            <MainButton
+              classes="bg-[#864DC2]"
+              text="Get Started"
+            />
           </div>
         </div>
       </div>
