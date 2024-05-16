@@ -10,6 +10,7 @@ import RemarkSection from "@/components/sections/RemarkSection";
 import WeShipSection from "@/components/sections/WeShipSection";
 import WhatsImportantSection from "@/components/sections/WhatImportantSection";
 import Lenis from "@studio-freight/lenis";
+import BusinessSection from "@/components/sections/BusinessSection";
 
 export default function Home() {
   useEffect(() => {
@@ -26,6 +27,7 @@ export default function Home() {
       <NavBar />
       <HeroSection />
       <LogoGroupSection />
+      <BusinessSection />
       {/* <WhatsImportantSection /> */}
       {/* <RemarkSection /> */}
       {/* <WeShipSection /> */}
