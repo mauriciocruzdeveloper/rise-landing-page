@@ -9,7 +9,7 @@ function LogoGroupSection() {
 
       <section>
         <p className="text-[22px] text-customDark lg:text-customGray text-center pt-16 pb-8 font-bold">
-          Fullstack sistem in minutes from natural language narration
+          Fullstack system in minutes from natural language narration
         </p>
       </section>
 
